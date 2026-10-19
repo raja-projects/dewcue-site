@@ -962,3 +962,6 @@ em.display { font: inherit; color: var(--purple); }
 .currency-switch { border: 0; padding: 10px 0; background: none; font: inherit; font-size: 14px; line-height: 22px; font-weight: 600; color: var(--purple); cursor: pointer; text-align: left; }
 .currency-switch .icon { width: 16px; height: 16px; }
 .small-feature h3 .plan-badge { display: inline-block; margin-left: 6px; vertical-align: 2px; }
+.buy-error { color: #9f1239; font-size: 14px; line-height: 22px; margin: -8px 0 16px; text-align: left; }
+.modal p.buy-error { font-size: 14px; line-height: 22px; text-align: left; }
+[data-buy][disabled], [data-buy-submit][disabled] { opacity: .6; cursor: default; }

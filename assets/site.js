@@ -47,7 +47,8 @@
       window.location.href = ($('a[href$="contact/"]')?.href || 'mailto:hello@dewcue.com');
     }
   }
-  $$('[data-install]').forEach(button => button.addEventListener('click', () => openDialog('#install-dialog')));
+  const STORE_URL = 'https://chromewebstore.google.com/detail/dewcue-calm-reminders-ema/llcaipjggcmogkkcpjmbgahhgkkfjojo';
+  $$('[data-install]').forEach(button => button.addEventListener('click', () => { window.open(STORE_URL, '_blank', 'noopener'); }));
   $$('dialog').forEach(dialog => {
     $('[data-close-dialog]', dialog)?.addEventListener('click', () => dialog.close());
     $$('[data-close-on-link]', dialog).forEach(link => link.addEventListener('click', () => dialog.close()));
