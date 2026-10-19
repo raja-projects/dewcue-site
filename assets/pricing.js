@@ -180,7 +180,7 @@
       const res = await fetch(API + '/v1/checkout', {
         method: 'POST',
         headers: {'content-type': 'application/json'},
-        body: JSON.stringify({email, plan: order.plan, currency: order.currency}),
+        body: JSON.stringify({email, plan: order.plan, currency: order.currency, newsletter: Boolean($('#buy-newsletter')?.checked)}),
         credentials: 'omit',
         signal: ctrl?.signal
       });

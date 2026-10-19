@@ -965,3 +965,5 @@ em.display { font: inherit; color: var(--purple); }
 .buy-error { color: #9f1239; font-size: 14px; line-height: 22px; margin: -8px 0 16px; text-align: left; }
 .modal p.buy-error { font-size: 14px; line-height: 22px; text-align: left; }
 [data-buy][disabled], [data-buy-submit][disabled] { opacity: .6; cursor: default; }
+.demo-form label.buy-optin { display: flex; align-items: flex-start; gap: 10px; margin: -6px 0 20px; color: #645271; font-size: 14px; line-height: 22px; font-weight: 400; cursor: pointer; }
+.demo-form .buy-optin input { width: 18px; height: 18px; min-height: 0; margin: 2px 0 0; padding: 0; flex: none; accent-color: var(--purple); }
