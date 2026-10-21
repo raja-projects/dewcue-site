@@ -1,5 +1,5 @@
 'use strict';
-// DewCue pricing: one currency at a time.
+// Dewcue pricing: one currency at a time.
 // Order: a saved choice, then a quick location lookup, then the India timezone, else USD.
 // Paid plans: ask for an email, create a checkout on the licence server, then go to its Razorpay page.
 (() => {
@@ -135,7 +135,7 @@
   }
   function openBuy(kind) {
     if (!dialog || typeof dialog.showModal !== 'function') {
-      window.location.href = 'mailto:hello@dewcue.com?subject=' + encodeURIComponent('DewCue Premium');
+      window.location.href = 'mailto:hello@dewcue.com?subject=' + encodeURIComponent('Dewcue Premium');
       return;
     }
     const plan = kind === 'lifetime' ? 'lifetime' : billing;

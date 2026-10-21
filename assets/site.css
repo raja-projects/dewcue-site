@@ -1,4 +1,4 @@
-/* DewCue v2 — DM Sans, clear typography, and a product-led SaaS layout. */
+/* Dewcue v2 — DM Sans, clear typography, and a product-led SaaS layout. */
 @font-face {
   font-family: 'DM Sans'; font-style: normal; font-weight: 300 700; font-display: swap;
   src: url('./dm-sans-latin-ext.woff2') format('woff2');
@@ -483,7 +483,7 @@ em.display { font: inherit; color: var(--purple); }
 .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); z-index: 80; max-width: calc(100% - 32px); padding: 16px 22px; border-radius: 12px; color: #fff; background: #302048; box-shadow: 0 8px 35px #2e233c3d; font-size: 14px; line-height: 22px; text-align: center; }
 .nojs-note { padding: 16px; text-align: center; background: #f9f1dc; color: #66542c; font-size: 14px; line-height: 22px; }
 
-/* DewCue v2: responsive layer. Append after the complete desktop stylesheet. */
+/* Dewcue v2: responsive layer. Append after the complete desktop stylesheet. */
 
 @media (max-width: 1200px) {
   .container { width: min(var(--max), calc(100% - 80px)); }
