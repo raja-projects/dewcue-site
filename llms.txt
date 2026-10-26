@@ -1,0 +1,38 @@
+# Dewcue
+
+> Dewcue is a calm, private reminder extension for Google Chrome (also runs in Chromium browsers such as Edge and Brave). Type reminders in plain words, get reply and follow-up reminders in Gmail, Outlook and Yahoo Mail, run Pomodoro, countdown and stopwatch timers with an on-page ribbon, and pin sticky notes to any web page. No account and no ads. Published by RATdeck Team; sold by Tanishkha (India).
+
+Key facts (current version 1.0.6, October 2026):
+- Install: https://chromewebstore.google.com/detail/llcaipjggcmogkkcpjmbgahhgkkfjojo
+- Reminders in plain words ("call mom tomorrow at 6", "rent on the 5th", "vitamin D every morning"), repeating reminders, snooze, Today / Upcoming / Overdue lists.
+- Quick choices when creating or rescheduling: Later today, Tomorrow 9 AM, Next week (next Monday 9 AM), plus a full date and time picker.
+- Email: open an email in Gmail, Outlook on the web or Yahoo Mail and use "Remind me to reply" (Tomorrow 9 AM or custom date) or "Follow up" (In 3 days or custom date). Dewcue uses only the subject, sender name and link on screen; it never reads message bodies or asks for an email login.
+- Timers: stopwatch, countdown and 25/5 Pomodoro; a slim ribbon shows the countdown on the page.
+- Sticky notes: right-click "Add a sticky note here" or press Alt+Shift+K. Free includes 10 notes; Premium is unlimited. Alt+Shift+D opens Dewcue.
+- Wellbeing nudges (water, eyes, posture, breaks) with quiet hours. English, Hindi and Tamil.
+- Privacy: local-first; reminders sync through your own Chrome profile; sticky notes and buckets stay on the computer; backups and CSV export.
+- Pricing: Free plan with clear limits. Premium $4.99/month or $39/year (14-day trial, no card). India: ₹199/month or ₹1,990/year plus 18% GST (₹234.82 and ₹2,348.20), UPI via Razorpay.
+
+## Main pages
+- [Home](https://dewcue.com/): overview of Dewcue
+- [Features](https://dewcue.com/features/): every feature in detail
+- [Pricing](https://dewcue.com/pricing/): Free, Premium and Lifetime plans
+- [Answers](https://dewcue.com/answers/): 58 FAQs on reminders, email follow-ups, sticky notes, privacy and billing
+- [Use cases](https://dewcue.com/use-cases/): work, study, freelancers, everyday life
+
+## Guides
+- [Set your first reminder](https://dewcue.com/guides/first-reminder/)
+- [Email follow-ups](https://dewcue.com/guides/email-follow-ups/)
+- [Reminders from web pages and selected text](https://dewcue.com/guides/reminders-from-web-pages/)
+- [Focus and breaks](https://dewcue.com/guides/focus-and-breaks/)
+- [Chrome side panel](https://dewcue.com/guides/chrome-side-panel/)
+- [Browser notifications](https://dewcue.com/guides/browser-notifications/)
+- [Backups and changing computers](https://dewcue.com/guides/backup-and-changing-computers/)
+- [Birthdays and milestones](https://dewcue.com/guides/birthdays-and-milestones/)
+- [Activate Premium](https://dewcue.com/guides/activate-premium/)
+
+## Policies
+- [Privacy](https://dewcue.com/privacy/)
+- [Terms](https://dewcue.com/terms/)
+- [Refunds](https://dewcue.com/refund/)
+- [Contact](https://dewcue.com/contact/): hello@dewcue.com
