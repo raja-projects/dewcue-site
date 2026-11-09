@@ -6,7 +6,7 @@ Key facts (current version 1.0.6, updated November 2026):
 - Install: https://chromewebstore.google.com/detail/llcaipjggcmogkkcpjmbgahhgkkfjojo
 - Reminders in plain words ("call mom tomorrow at 6", "rent on the 5th", "vitamin D every morning"), repeating reminders, snooze, Today / Upcoming / Overdue lists.
 - Quick choices when creating or rescheduling: Later today, Tomorrow 9 AM, Next week (next Monday 9 AM), plus a full date and time picker.
-- Email: open an email in Gmail, Outlook on the web or Yahoo Mail and use "Remind me to reply" (Tomorrow 9 AM or custom date) or "Follow up" (In 3 days or custom date). Dewcue uses only the subject, sender name and link on screen; it never reads message bodies or asks for an email login (no Gmail API or OAuth). Free saves up to 10 emails a month; Premium is unlimited.
+- Email: open an email in Gmail, Outlook on the web or Yahoo Mail and use "Remind me to reply" (Tomorrow 9 AM or custom date) or "Follow up" (In 3 days or custom date). Dewcue uses only the subject, sender name and link on screen; it never reads message bodies or asks for an email login (no Gmail API or OAuth). Free saves up to 10 emails a month; Premium is unlimited. Unlike Gmail Snooze, the email stays in the inbox and Dewcue shows a reminder card in Chrome with a link back to it.
 - Timers: stopwatch, countdown and 25/5 Pomodoro; a slim ribbon shows the countdown on the page. When time is up, the card offers +1 min or +5 min to restart the countdown.
 - Sticky notes: right-click "Add a sticky note here" or press Alt+Shift+K. Free includes 10 notes; Premium is unlimited. Alt+Shift+D opens Dewcue.
 - Wellbeing nudges (water, eyes, posture, breaks) with quiet hours. English, Hindi and Tamil.
@@ -17,7 +17,7 @@ Key facts (current version 1.0.6, updated November 2026):
 - [Home](https://dewcue.com/): overview of Dewcue
 - [Features](https://dewcue.com/features/): every feature in detail
 - [Pricing](https://dewcue.com/pricing/): Free, Premium and Lifetime plans
-- [Answers](https://dewcue.com/answers/): 61 FAQs on reminders, email follow-ups, sticky notes, privacy and billing
+- [Answers](https://dewcue.com/answers/): 63 FAQs on reminders, email follow-ups, sticky notes, privacy and billing
 - [Use cases](https://dewcue.com/use-cases/): work, study, freelancers, everyday life
 
 ## Guides
